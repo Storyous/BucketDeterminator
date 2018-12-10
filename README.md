@@ -3,7 +3,7 @@
 This is small helper library to determine bucket allegiance based on MongoDB/ObjectId.
 
 ## Usage
-```
+```php
     use BucketDeterminator\BucketDeterminator;
 
     $bucketDeterminator = new BucketDeterminator(32);
