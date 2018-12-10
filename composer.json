@@ -1,0 +1,13 @@
+{
+    "name": "storyous/bucket-determinator",
+    "authors": [
+        {
+            "name": "JAN VOJACEK",
+            "email": "vojacekjan@icloud.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "nette/tester": "^2.0"
+    }
+}
