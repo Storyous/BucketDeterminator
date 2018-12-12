@@ -1,5 +1,11 @@
 {
     "name": "storyous/bucket-determinator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "BucketDeterminator\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "storyous.com s.r.o.",
