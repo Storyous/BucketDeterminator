@@ -1,3 +1,5 @@
+![](http://oi68.tinypic.com/ffcm4x.jpg)
+
 # BucketDeterminator
 
 This is small helper library to determine bucket allegiance based on MongoDB/ObjectId.
