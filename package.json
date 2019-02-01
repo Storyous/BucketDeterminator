@@ -1,0 +1,22 @@
+{
+  "name": "@storyous/bucket-determinator",
+  "version": "1.0.0",
+  "description": "![](http://oi68.tinypic.com/ffcm4x.jpg)",
+  "main": "src/BucketDeterminator.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node test/Test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Storyous/BucketDeterminator.git"
+  },
+  "author": "Ivo, Tomas",
+  "bugs": {
+    "url": "https://github.com/Storyous/BucketDeterminator/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Storyous/BucketDeterminator#readme"
+}
